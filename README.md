@@ -28,7 +28,7 @@
 
 ## Развертывание
 
-1. Посетите: `https://username.github.io/learn-js-website/](https://k4t3a.github.io/BEM-Methodology/`.
+1. Посетите: `https://k4t3a.github.io/BEM-Methodology/`.
 
 ## Структура
 
