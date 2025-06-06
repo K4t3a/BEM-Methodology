@@ -1,6 +1,6 @@
 # Изучайте JavaScript
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://username.github.io/learn-js-website/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)]([https://username.github.io/learn-js-website/](https://k4t3a.github.io/BEM-Methodology/))
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 ## Описание
