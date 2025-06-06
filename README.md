@@ -15,11 +15,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/learn-js-website.git
+   git clone https://github.com/K4t3a/BEM-Methodology.git
    ```
 2. Перейдите в папку:
    ```bash
-   cd learn-js-website
+   cd BEM-Methodology
    ```
 3. Откройте `index.html` в браузере или используйте:
    ```bash
