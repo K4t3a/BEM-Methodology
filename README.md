@@ -28,8 +28,7 @@
 
 ## Развертывание
 
-1. Включите GitHub Pages в настройках репозитория (`main`, `/ (root)`).
-2. Посетите: `https://username.github.io/learn-js-website/`.
+1. Посетите: `https://username.github.io/learn-js-website/](https://k4t3a.github.io/BEM-Methodology/`.
 
 ## Структура
 
