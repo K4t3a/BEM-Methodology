@@ -10,7 +10,6 @@
 ## Технологии
 
 - HTML5, CSS3, JavaScript
-- Markdown, GitHub Pages
 
 ## Установка
 
