@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Контакты</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body class="page">
+  <header class="header">
+    <div class="header__container">
+      <h1 class="header__title">Изучайте JavaScript</h1>
+      <nav class="header__nav nav">
+        <ul class="nav__list">
+          <li class="nav__item"><a class="nav__link" href="index.html">Главная</a></li>
+          <li class="nav__item"><a class="nav__link" href="lessons.html">Уроки</a></li>
+          <li class="nav__item"><a class="nav__link nav__link_active" href="contacts.html">Контакты</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <section class="contacts">
+      <div class="contacts__container">
+        <h2 class="contacts__title">Свяжитесь с нами</h2>
+        <p class="contacts__description">Задайте свои вопросы или поделитесь отзывами через форму ниже!</p>
+        <form class="contacts__form">
+          <div class="contacts__form-group">
+            <label class="contacts__form-label" for="name">Имя</label>
+            <input class="contacts__form-input" type="text" id="name" name="name" placeholder="Ваше имя" required>
+          </div>
+          <div class="contacts__form-group">
+            <label class="contacts__form-label" for="email">Email</label>
+            <input class="contacts__form-input" type="email" id="email" name="email" placeholder="Ваш email" required>
+          </div>
+          <div class="contacts__form-group">
+            <label class="contacts__form-label" for="message">Сообщение</label>
+            <textarea class="contacts__form-textarea" id="message" name="message" placeholder="Ваше сообщение" rows="5"
+              required></textarea>
+          </div>
+          <button class="contacts__form-button button" type="submit">Отправить</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <div class="footer__container">
+      <p class="footer__text">© 2025 Изучайте JavaScript</p>
+    </div>
+  </footer>
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>
